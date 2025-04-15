@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Intro to Python",
+        "tags": [
+            "beginner",
+            "python",
+            "programming",
+            "cs"
+        ]
+    },
+    {
+        "title": "Data Structures",
+        "tags": [
+            "intermediate",
+            "algorithms",
+            "cs",
+            "basics",
+            "data_structures"
+        ]
+    },
+    {
+        "title": "Web Dev Basics",
+        "tags": [
+            "frontend",
+            "html",
+            "css",
+            "web_development",
+            "basics"
+        ]
+    },
+    {
+        "title": "Data Science: R Basics",
+        "tags": [
+            "beginner",
+            "r",
+            "programming",
+            "data_science",
+            "basics"
+        ]
+    },
+    {
+        "title": "Machine Learning with Python: A Practical Introduction",
+        "tags": [
+            "intermediate",
+            "algorithms",
+            "cs",
+            "machine_learning",
+            "ml",
+            "ai"
+        ]
+    },
+    {
+        "title": "SQL for Data Science",
+        "tags": [
+            "sql",
+            "data_science",
+            "programming",
+            "cs",
+            "beginner"
+        ]
+    }
+]
